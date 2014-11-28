@@ -10,6 +10,7 @@ import Data.Conduit.Binary
 import Data.Default
 import Yesod
 import Yesod.Default.Util
+import Control.Monad.Trans.Resource
 
 import Foundation
 
